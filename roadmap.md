@@ -1,0 +1,5 @@
+- [x] Complete tidal notebook visual redesign
+- [x] Add persistent light/night mode switch across public and authenticated pages
+- [x] Verify both themes on mobile and desktop, including build and browser errors
+- [x] Create distinct admin, verifier, and field-submitter navigation workspaces
+- [x] Verify role navigation configuration, collapsed behavior, responsive rules, and build health
