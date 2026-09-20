@@ -6,6 +6,8 @@ Built for **Smart India Hackathon — Problem Statement SIH25038**
 
 BlueChain Registry brings transparent, tamper-evident, AI-assisted verification to blue carbon restoration — tracking mangrove, seagrass, and salt marsh restoration projects from field submission through independent verification to carbon credit issuance, with every step recorded in an auditable chain.
 
+🔗 Live Demo:https://bluechain-registry.vercel.app/
+
 ---
 
 ## 🚩 The Problem
